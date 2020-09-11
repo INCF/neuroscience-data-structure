@@ -1,5 +1,7 @@
 # neuroscience-data-structure
 
-[disclaimer: this is an interim description... a more precise one will come soon]
+The objective of this project is to put together a set of specifications and tools that would allow the standardization of a directory structure containing experimental data recorded with animal models in neuroscience.
+For this, we aim at capitalizing on the success of BIDS for human neuroimaging data, while retaining the specificities of data sets obtained in animal models.
+Such a standardized data structure will facilitate obtaining reproducible research and data sharing following the FAIR principles.
 
-Space for discussion of a standardized structure (directory layout + metadata) for experimental data recorded in animal models in systems neuroscience
+[Note that the name neuroscience-data-structure and the associated acronym NDS are not final; they' be used in discussions / issues]
